@@ -502,6 +502,18 @@
       "source": "./external_plugins/context7",
       "homepage": "https://github.com/anthropics/claude-plugins-public/tree/main/external_plugins/context7",
       "tags": ["community-managed"]
+    },
+    {
+      "name": "iterm-tab-colors",
+      "description": "Updates iTerm2 tab colors to correspond to Claude Code status. Shows different colors for idle, working, and permission request states.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Kevin Kwok",
+        "email": "antimatter15@gmail.com"
+      },
+      "category": "terminal",
+      "source": "./external_plugins/iterm-tab-colors",
+      "homepage": "https://github.com/anthropics/claude-plugins-public/tree/main/external_plugins/iterm-tab-colors"
     }
   ]
 }
